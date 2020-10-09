@@ -2,11 +2,11 @@
 
 ## Usage
 
-Las dos grandes dependencias del proyecto son HuggingFace y TensorFlow. Se recomienda instalarlas en un entorno virtual de Python.
+Las grandes dependencias del proyecto son Scikit-Learn, HuggingFace y TensorFlow. Se recomienda instalarlas en un entorno virtual de Python.
 
 ## Training
 
-Ejecutar 
+Ejecutar:
 
 ```python train.py dataset```
 
