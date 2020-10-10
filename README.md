@@ -2,7 +2,7 @@
 
 ## Usage
 
-Las grandes dependencias del proyecto son Scikit-Learn, HuggingFace y TensorFlow. Se recomienda instalarlas en un entorno virtual de Python.
+Las grandes dependencias del proyecto son Python, Scikit-Learn, HuggingFace y TensorFlow. Se recomienda instalarlas en un entorno virtual de Python.
 
 ## Training
 
@@ -10,7 +10,7 @@ Ejecutar:
 
 ```python train.py dataset```
 
-Donde *dataset* será la ubicación del dataset proporcionado para la prueba, organizado en 7 directorios, uno por clase.
+Donde *dataset* será la ubicación del conjunto de datos proporcionado para la prueba, organizado en 7 directorios, uno por clase.
 
 ## Inference
 
